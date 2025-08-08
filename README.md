@@ -1,5 +1,6 @@
-<h1 align="center">Hii, I'm Nandita Dangol</h1>
-<h3 align="center">💻 Full Stack Developer in Laravel | 🌱 Lifelong Learner</h3>
+<h1 align="center">✨ Welcome to My Code Space ✨</h1>
+<h3 align="center">I'm Nandita Dangol — 💻 Full Stack Developer | 🌱 Always Learning & Exploring</h3>
+
 
 ---
 
@@ -73,4 +74,5 @@
 ---
 
 ✨ *"Great code is poetry in logic."*
+
 
