@@ -8,7 +8,7 @@
 - 🎓 Currently diving deeper into **Laravel, Livewire, and React**
 - 🔬 Passionate about building projects that blend **creativity with functionality**
 - 💡 Believe in **learning by building** — every project is a step forward
-- ⚡ Fun fact: I sometimes debug in my sleep... and wake up with the answer 😄
+- ⚡ Fun fact: I stare at the screen not because I’m lost… 👀 because my brain is buffering.
 
 ---
 
@@ -74,5 +74,6 @@
 ---
 
 ✨ *"Great code is poetry in logic."*
+
 
 
